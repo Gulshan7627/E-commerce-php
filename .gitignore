@@ -1,0 +1,14 @@
+# Ignore all .sql files (database files)
+*.sql
+
+# Ignore specific configuration files
+config.php
+env.php
+
+# Ignore folders and files created by IDEs or editors
+.vscode/
+.idea/
+
+# Ignore system files
+*.DS_Store
+*.log
